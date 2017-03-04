@@ -1,0 +1,7 @@
+*.zip
+.metadata
+*/.idea/
+*/project/
+*/target
+*/bin
+*/.settings
