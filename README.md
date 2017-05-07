@@ -1,2 +1,2 @@
 # coursera-prog-fun
-Exercises for [the prog-fun course](https://www.coursera.org/learn/progfun1) on Coursera
+Exercises for course [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) on Coursera
